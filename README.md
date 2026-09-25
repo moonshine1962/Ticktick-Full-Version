@@ -242,4 +242,4 @@ This repository serves as the official landing page for TickTick. The software i
 **Get the most recent version of TickTick today!**
 
 ---
-**Last updated:** 2026-09-24 22:11:15 UTC
+**Last updated:** 2026-09-25 01:18:07 UTC
